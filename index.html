@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Music Player</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Gupter:wght@400;500;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header>
+       <h2 class="app-heading">Music Wala</h2>
+       <div id="toggle-container">
+        <button id="toggle"></button>
+       
+       </div>
+
+    </header>
+    <div class="main-container" data-theme="light">
+
+        <div id="all-songs">
+              <h4 id="filter-heading">Filtered by Genre</h4>
+              <select id="filter-box"></select>
+
+              <h2 class="songs-heading">All Songs</h2>
+              <div id="songs-list"></div>
+        </div>
+
+
+        <div id="song-card">
+              
+        </div>
+
+        <div id="playlist-container" >
+             <form id="list-form">
+                <input id="playlist-value"/>
+                <button type="submit" id="add-palylist">add playlist</button>
+
+             </form>
+             <div id="current-playlist">
+                <h2 id="current-heading">Current Playlist</h2>
+             </div>
+             <div id="new-playlist">
+                <h2 id="new-heading">New Playlist</h2>
+             </div>
+        </div>
+        
+    </div>
+    <script src="./index.js"></script>
+</body>
+</html>
