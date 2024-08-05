@@ -46,6 +46,21 @@ const allsongs=[
         genre:"classic",
         source:"./songs/[iSongs.info] 11 - Needhe Needhe.mp3",
         image:"https://imgs.search.brave.com/UDdDvV5YjhSD8-WPRjLiH75yJaw2imUWkMpFx1v24aA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jLnNh/YXZuY2RuLmNvbS8x/MTAvSGktTmFubmEt/T3N0LVMtU2lkZS1C/LVRlbHVndS0yMDI0/LTIwMjQwMTEzMTYx/MjU4LTUwMHg1MDAu/anBn"
+    },{
+        id:7,
+        title:"Kannana Kanne",
+        artist:"Anirudh Ravichandar",
+        genre:"Love failure",
+        source:"./songs/Kannana-Kanne.mp3",
+        image:"https://imgs.search.brave.com/3CR4571BP2G3QjdBNOlb8nvjeEFR1soy7j1yx6u1uI0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pMS5z/bmRjZG4uY29tL2Fy/dHdvcmtzLTAwMDE0/MDQwNjMwNi0wdmly/Y2ItdDUwMHg1MDAu/anBn"
+    },
+    {
+        id:8,
+        title:"Thangamme",
+        artist:"Anirudh Ravichandar",
+        genre:"classic",
+        source:"./songs/Thangame.mp3",
+        image:"https://imgs.search.brave.com/wmvL-zihW8XrSdvNJGzpqz3LnlgLKoqRRYOZRPXG2qY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW5kaWFuZXhw/cmVzcy5jb20vMjAy/My8xMS9OYWFudW0t/Um93ZHktRGhhYW4t/MTYwMC5qcGc_dz02/NDA"
     }
 ]
 
