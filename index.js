@@ -37,7 +37,7 @@ const allsongs=[
         artist:"Vijai Bulganin",
         genre:"melody",
         source:"./songs/O-Rendu-Prema-Meghaalila-(Baby)(PagalWorldl).mp3",
-        image:"https://www.pagalworldl.com/uploads/thumb/sft34/16696_4.jpg",
+        image:"https://imgs.search.brave.com/BNVb1cukGKUjlzvXRfuqhzykyRgdexRcbIZ2iWx_pjY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jLnNh/YXZuY2RuLmNvbS83/MzIvQmFieS1UZWx1/Z3UtMjAyMy0yMDIz/MDcxMDEzMTEyMy01/MDB4NTAwLmpwZw",
     },
     {
         id:6,
