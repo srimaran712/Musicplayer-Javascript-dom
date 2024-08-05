@@ -47,14 +47,7 @@ const allsongs=[
         source:"./songs/[iSongs.info] 11 - Needhe Needhe.mp3",
         image:"https://imgs.search.brave.com/UDdDvV5YjhSD8-WPRjLiH75yJaw2imUWkMpFx1v24aA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jLnNh/YXZuY2RuLmNvbS8x/MTAvSGktTmFubmEt/T3N0LVMtU2lkZS1C/LVRlbHVndS0yMDI0/LTIwMjQwMTEzMTYx/MjU4LTUwMHg1MDAu/anBn"
     },
-    {
-       id:7,
-        title:"Kannana Kannae",
-        artist:"Anirudh RaviChandar",
-        genre:"romance",
-        source:"https://github.com/srimaran712/Musicplayer-Javascript-dom/blob/main/songs/Kannana-Kanne.mp3", 
-        image:"https://imgs.search.brave.com/3CR4571BP2G3QjdBNOlb8nvjeEFR1soy7j1yx6u1uI0/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pMS5z/bmRjZG4uY29tL2Fy/dHdvcmtzLTAwMDE0/MDQwNjMwNi0wdmly/Y2ItdDUwMHg1MDAu/anBn",
-    }
+  
 ]
 
 let currentIndex=0;
