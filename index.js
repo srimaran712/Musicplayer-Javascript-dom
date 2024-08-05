@@ -46,7 +46,7 @@ const allsongs=[
         genre:"classic",
         source:"./songs/[iSongs.info] 11 - Needhe Needhe.mp3",
         image:"https://imgs.search.brave.com/UDdDvV5YjhSD8-WPRjLiH75yJaw2imUWkMpFx1v24aA/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9jLnNh/YXZuY2RuLmNvbS8x/MTAvSGktTmFubmEt/T3N0LVMtU2lkZS1C/LVRlbHVndS0yMDI0/LTIwMjQwMTEzMTYx/MjU4LTUwMHg1MDAu/anBn"
-<<<<<<< HEAD
+
     },{
         id:7,
         title:"Kannana Kanne",
@@ -63,10 +63,8 @@ const allsongs=[
         source:"./songs/Thangame.mp3",
         image:"https://imgs.search.brave.com/wmvL-zihW8XrSdvNJGzpqz3LnlgLKoqRRYOZRPXG2qY/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMuaW5kaWFuZXhw/cmVzcy5jb20vMjAy/My8xMS9OYWFudW0t/Um93ZHktRGhhYW4t/MTYwMC5qcGc_dz02/NDA"
     }
-=======
-    },
+
   
->>>>>>> 753c1a0ee9f015afd1eab78c8b2353ef4fdc07a0
 ]
 
 let currentIndex=0;
